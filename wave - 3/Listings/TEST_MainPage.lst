@@ -1,0 +1,30 @@
+C51 COMPILER V9.54   TEST_MAINPAGE                                                         07/11/2024 09:34:54 PAGE 1   
+
+
+C51 COMPILER V9.54, COMPILATION OF MODULE TEST_MAINPAGE
+OBJECT MODULE PLACED IN .\Objects\TEST_MainPage.obj
+COMPILER INVOKED BY: D:\keil\C51\BIN\C51.EXE TEST_MainPage.c LARGE OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\L
+                    -istings\TEST_MainPage.lst) TABS(2) OBJECT(.\Objects\TEST_MainPage.obj)
+
+line level    source
+
+   1          #include "OLED.h"
+   2          #include "Delay.h"
+   3          void TEST_MainPage(void)
+   4          { 
+   5   1        OLED_ShowString(0,0,"Do not go gentle into that good night.",6);
+   6   1      }
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =     18    ----
+   CONSTANT SIZE    =     39    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =   ----    ----
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)

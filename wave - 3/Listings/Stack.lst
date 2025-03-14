@@ -1,0 +1,13 @@
+C51 COMPILER V9.54   STACK                                                                 07/10/2024 09:32:44 PAGE 1   
+
+
+C51 COMPILER V9.54, COMPILATION OF MODULE STACK
+OBJECT MODULE PLACED IN .\Objects\Stack.obj
+COMPILER INVOKED BY: D:\keil\C51\BIN\C51.EXE Stack.c LARGE OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\Listings\
+                    -Stack.lst) TABS(2) OBJECT(.\Objects\Stack.obj)
+
+line level    source
+
+*** ERROR C318 OF Stack.c: can't open file 'Stack.c'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)
